@@ -1,24 +1,16 @@
-<h1 id="cover-heading">
-  Flop Hub  <!-- TODO: Update title -->
-</h1>
+![img](./fhLogo.png)
 
-[![GitHub tags](https://img.shields.io/github/tag/MichaelCurrin/docs.svg)](https://GitHub.com/MichaelCurrin/docs/tags/) <!-- TODO: Update username and repo name -->
+<h1 id="cover-heading">Flop Hub</h1>
 
->  Two Sided Hardware Marketplace On Kubernetes <!-- TODO: Replace with your description -->
+## Two Sided Hardware Marketplace On Kubernetes
 
+- :hourglass_flowing_sand: Save Time and Effort
+- :open_file_folder: Persistent Data 
+- :sparkles: Competitive GPU Prices
+- :nut_and_bolt: Built on Kubernetes
+- :pushpin: Library of ML Templates
+- :cloud: Access Anywhere
 
-<!-- TODO: Update to match your project's benefits/features. Git emojis work great here. -->
+![color](#bd8f9)
 
-- :hourglass_flowing_sand: Quickly set up an elegant, responsive site
-- :open_file_folder: Use your markdown docs as content
-- :sparkles: No compilation step and no templating syntax to learn
-- :nut_and_bolt: Built on [DocsifyJS](https://docsify.js.org/)
-- :pushpin: The library loads in the browser - no local dependencies
-- :cloud: Serve locally and on GitHub Pages or Netlify
-
-
-[Use this template](https://github.com/MichaelCurrin/docs/generate) <!-- TODO: Remove on your copy of this template.-->
-[Get Started](#docsifyjs-template) <!-- TODO: Use ID of your homepage heading -->
-
-<!-- TODO: Set your background color or image. -->
-![color](#b3d9f8)
+[![GitHub tags](https://img.shields.io/github/tag/MichaelCurrin/docs.svg)](https://GitHub.com/flophub/docs/) 
