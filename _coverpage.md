@@ -1,10 +1,10 @@
 <h1 id="cover-heading">
-  DocsifyJS Template  <!-- TODO: Update title -->
+  Flop Hub  <!-- TODO: Update title -->
 </h1>
 
-[![GitHub tags](https://img.shields.io/github/tag/MichaelCurrin/docsify-js-template.svg)](https://GitHub.com/MichaelCurrin/docsify-js-template/tags/) <!-- TODO: Update username and repo name -->
+[![GitHub tags](https://img.shields.io/github/tag/MichaelCurrin/docs.svg)](https://GitHub.com/MichaelCurrin/docs/tags/) <!-- TODO: Update username and repo name -->
 
->  Starter template for a Markdown-based docs site <!-- TODO: Replace with your description -->
+>  Two Sided Hardware Marketplace On Kubernetes <!-- TODO: Replace with your description -->
 
 
 <!-- TODO: Update to match your project's benefits/features. Git emojis work great here. -->
@@ -17,7 +17,7 @@
 - :cloud: Serve locally and on GitHub Pages or Netlify
 
 
-[Use this template](https://github.com/MichaelCurrin/docsify-js-template/generate) <!-- TODO: Remove on your copy of this template.-->
+[Use this template](https://github.com/MichaelCurrin/docs/generate) <!-- TODO: Remove on your copy of this template.-->
 [Get Started](#docsifyjs-template) <!-- TODO: Use ID of your homepage heading -->
 
 <!-- TODO: Set your background color or image. -->
