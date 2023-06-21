@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-21T18:51:12.436Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="lypuMJWM4GzvPBxyDIH9" version="21.5.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-06-21T18:59:43.115Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="PMlDvsM5MWlf4P_xO3c8" version="21.5.0" type="github" pages="2">
   <diagram name="Seite-1" id="oyB1J4lQSQryITBCKR3E">
     <mxGraphModel dx="867" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -179,7 +179,7 @@
         <mxCell id="L4o1jWjbPwMp0_FglPyr-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="lMakNlP7YPmwNP2zMPLx-1" source="lMakNlP7YPmwNP2zMPLx-14" target="L4o1jWjbPwMp0_FglPyr-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lMakNlP7YPmwNP2zMPLx-14" value="Available Nodes" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#FFF2CC;" vertex="1" parent="lMakNlP7YPmwNP2zMPLx-1">
+        <mxCell id="lMakNlP7YPmwNP2zMPLx-14" value="Available Nodes&lt;br&gt;(&amp;amp; detailed GPU info)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#FFF2CC;" vertex="1" parent="lMakNlP7YPmwNP2zMPLx-1">
           <mxGeometry x="347" y="410" width="132.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="L4o1jWjbPwMp0_FglPyr-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="lMakNlP7YPmwNP2zMPLx-1" source="lMakNlP7YPmwNP2zMPLx-15" target="lMakNlP7YPmwNP2zMPLx-11">
@@ -232,10 +232,10 @@
         <mxCell id="L4o1jWjbPwMp0_FglPyr-30" value="Client Panel View:&lt;br&gt;- Usage by N.G. (prom)&lt;br&gt;- Billing (stripe)&lt;br&gt;&lt;br&gt;Host Panel View:&lt;br&gt;- Earnings/Payouts (stripe)&lt;br&gt;- flop consumption (prom)&lt;br&gt;- Power calc tool (input $/kw)&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#F19C99;" vertex="1" parent="lMakNlP7YPmwNP2zMPLx-1">
           <mxGeometry x="600" y="540" width="160" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="L4o1jWjbPwMp0_FglPyr-33" value="Connect with Kubectl Modal + Script" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#F19C99;" vertex="1" parent="lMakNlP7YPmwNP2zMPLx-1">
+        <mxCell id="L4o1jWjbPwMp0_FglPyr-33" value="Connection Modal + Kubectl Script" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#F19C99;" vertex="1" parent="lMakNlP7YPmwNP2zMPLx-1">
           <mxGeometry x="455" y="660" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="L4o1jWjbPwMp0_FglPyr-37" value="Price and List&lt;br&gt;New Machine Modal + Script" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#FFF2CC;" vertex="1" parent="lMakNlP7YPmwNP2zMPLx-1">
+        <mxCell id="L4o1jWjbPwMp0_FglPyr-37" value="Price and List&lt;br&gt;Machine Modal + K3s Script" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#FFF2CC;" vertex="1" parent="lMakNlP7YPmwNP2zMPLx-1">
           <mxGeometry x="52.5" y="660" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
