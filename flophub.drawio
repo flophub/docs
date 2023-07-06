@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-06T21:31:58.890Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="6O1fa7otScU49-gfC1sV" version="21.6.1" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-07-06T21:44:40.022Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="w9TrYPsBZYIYrPVaomQE" version="21.6.1" type="github" pages="6">
   <diagram name="Authentik flow" id="oyB1J4lQSQryITBCKR3E">
     <mxGraphModel dx="2146" dy="1068" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -971,7 +971,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="4l9bx5CHZUg7cooI9ndb" name="Page-6">
+  <diagram id="4l9bx5CHZUg7cooI9ndb" name="UI - Node List">
     <mxGraphModel dx="1829" dy="668" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -995,13 +995,13 @@
           <mxGeometry x="260" y="140" width="400" height="70" as="geometry" />
         </mxCell>
         <mxCell id="DQFyvqyOUXA-2ZJ0Km2t-8" value="Node List" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="170" y="120" width="60" height="30" as="geometry" />
+          <mxGeometry x="160" y="125" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DQFyvqyOUXA-2ZJ0Km2t-9" value="Node Groups" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="170" y="170" width="60" height="30" as="geometry" />
+          <mxGeometry x="160" y="170" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DQFyvqyOUXA-2ZJ0Km2t-10" value="Dashboard" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="170" y="220" width="60" height="30" as="geometry" />
+          <mxGeometry x="160" y="220" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DQFyvqyOUXA-2ZJ0Km2t-11" value="&lt;div&gt;CPU&lt;/div&gt;&lt;div&gt;Memory&lt;/div&gt;&lt;div&gt;GPU&lt;/div&gt;&lt;div&gt;CUDA&lt;br&gt;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="140" width="120" height="70" as="geometry" />
