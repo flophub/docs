@@ -70,6 +70,75 @@ While GPU processing is favorable today, we are poised to be the first open mark
 
 We hope these onboarding documents provide you with a comprehensive understanding of our Two-Sided GPU Rental Marketplace. Should you have any further questions, feel free to reach out to our customer support team. We wish you a successful and rewarding experience as part of our community!
 
+##### Terms of Service
+
+Welcome to our GPU rental marketplace! Before you proceed to use our platform, please take a moment to review the following Terms of Service ("TOS") carefully. By accessing or using our services, you acknowledge that you have read, understood, and agree to comply with these terms. If you do not agree with any part of these terms, please refrain from using our platform.
+
+Introduction
+Our platform facilitates the rental of GPU resources between two sides: hosts (those who lease GPU machines) and users (those who rent GPU resources). The platform acts as an intermediary and does not own or operate any of the GPU machines.
+
+Account Creation and Eligibility
+2.1. To use our platform, users and hosts must create accounts. You agree to provide accurate and up-to-date information during registration and maintain the confidentiality of your account credentials.
+
+2.2 We reserve the right to suspend or terminate any account found in violation of these terms or suspected of fraudulent activities.
+
+GPU Rental Transactions
+3.1. Our platform enables users to browse available GPU machines and hosts to list their GPU machines for rental.
+
+3.2. Users may rent GPU resources on a short-term or long-term basis, as per the offerings provided by the hosts.
+
+3.3. Once a rental transaction is initiated, users agree to pay the applicable fees as presented on the platform.
+
+3.4. Hosts agree to provide the GPU resources as described in their listings and maintain the machines in good working condition.
+
+3.5. The platform may charge service fees for facilitating the rental transactions, and such fees will be disclosed before the transaction is finalized.
+
+Host Responsibilities
+4.1. Hosts agree to provide accurate information about their GPU machines, including specifications and availability.
+
+4.2. Hosts must ensure that their GPU machines are kept in good working condition, adequately cooled, and comply with any legal and regulatory requirements.
+
+4.3. Hosts shall not engage in any activities that may harm or compromise the security and integrity of their GPU machines or the platform.
+
+4.4. Hosts acknowledge that they are responsible for any taxes, fees, or other charges applicable to their rental income.
+
+User Responsibilities
+5.1. Users agree to use the rented GPU resources for legitimate purposes only, including but not limited to rendering, artificial intelligence, machine learning, and scientific calculations.
+
+5.2. Users shall not use the rented GPU resources for any illegal, unethical, or malicious activities, including hacking, data breaches, or copyright infringement.
+
+5.3. Users shall not attempt to exploit or gain unauthorized access to the platform or the host's GPU machines.
+
+5.4. Users are responsible for the data and software they use on the rented GPU machines and must comply with all applicable licenses and intellectual property rights.
+
+Liability and Disputes
+6.1. The platform acts as an intermediary and is not liable for any damages or losses incurred during the GPU rental transactions.
+
+6.2. Users and hosts agree to resolve any disputes arising from their transactions amongst themselves. However, the platform may provide dispute resolution assistance if required.
+
+Modification of Terms
+7.1. We reserve the right to update or modify these Terms of Service from time to time. Any changes will be communicated to users and hosts through their accounts or via email.
+
+7.2. Continued use of the platform after the modifications signify acceptance of the updated Terms of Service.
+
+Termination
+8.1. Users and hosts may terminate their accounts at any time by following the instructions provided on the platform.
+
+8.2. The platform may terminate or suspend any account that violates these Terms of Service or poses a threat to the platform's integrity.
+
+Intellectual Property
+9.1. The platform and all associated content, trademarks, and logos remain the property of the platform owners.
+
+9.2. Users and hosts may not use, reproduce, or modify any platform content without explicit permission.
+
+Governing Law and Jurisdiction
+10.1. These Terms of Service shall be governed by the laws of the jurisdiction where the platform is registered.
+
+10.2. Any disputes related to these terms shall be subject to the exclusive jurisdiction of the courts in that jurisdiction.
+
+By using our platform, you agree to abide by these Terms of Service. If you have any questions or concerns, please contact us at the provided support email.
+
+Thank you for being a part of our GPU rental marketplace community!
 
 <!-- ## About
 We created `flophub` to solve the following problems:
