@@ -65,6 +65,9 @@ When you book an additional node, you will be billed per node at the time you ad
 ##### How do I remove a node from my account?
 Simply remove it using our CLI or on the website by clicking 'remove node' in the dashboard.
 
+##### How can I remove all existence of flophub from my machine?
+```k3s-killall.sh && k3s-agent-uninstall.sh``
+
 ##### What about Quantum Computers?
 While GPU processing is favorable today, we are poised to be the first open marketplace for Qubits.
 
