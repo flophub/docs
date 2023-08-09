@@ -5,6 +5,8 @@
 
  To ensure a smooth onboarding process, please use this guide to familiarize yourself with our platform's features, guidelines, and best practices.
 
+ You can also visit our community in [Discord](https://discord.gg/ZWFjAYqUGs)
+
 ### Platform Overview:
 This document provides a high-level overview of our GPU rental marketplace, explaining its purpose, benefits, and how it works. It covers key information about the two-sided nature of our platform, including the roles and responsibilities of both renters and GPU owners.
 
